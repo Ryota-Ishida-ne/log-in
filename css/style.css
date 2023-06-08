@@ -26,3 +26,20 @@ form {
     margin: 5px 0;
   }
 
+.store-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 0;
+  text-align: center;
+}
+
+.logo-body{
+  display: block;
+  width: 25%;
+  height: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+}
+
