@@ -54,10 +54,6 @@ input {
   transform: translateY(5px);
 }
 
-
-
-
-
 .login_buttons{
   display: flex;
   justify-content: center;
@@ -83,8 +79,6 @@ input {
   vertical-align: middle;
   padding-bottom: 1000;
   transform: translateY(5px);
-  
-  
 }
 
 .native_svg-icon_iconGoogle{
